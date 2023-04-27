@@ -3,6 +3,7 @@
         <TargetFramework>net6.0</TargetFramework>
     </PropertyGroup>
     <ItemGroup>
+        <None Include="Scripts\Difficulty.fsx" />
         <None Include="Scripts\Scratch.fsx" />
         <None Include="sass\main.sass" />
         <None Include="UI\index.html" />
