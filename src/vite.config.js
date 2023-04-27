@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 
 export default defineConfig({
   root: "ShiningSword/UI/",
-  base: '/ShiningSword/',  
+  base: '/dfrpgDifficulty/',  
   build: {
     outDir: "publish",
     emptyOutDir: true,
